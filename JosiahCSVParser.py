@@ -11,6 +11,12 @@ ut = Utility('JosiahCSVParser')
 # noinspection PyUnusedLocal,PyPep8Naming
 class JosiahCSVParser(object):
     """
+    Added this for reference. 
+    Takes 5 csv files, merges them and pushes data
+    into duplicate columns
+    and generates a single csv
+    
+    
     Loads and parses:
     UNCC Termination pre 2017
     UNCC_HR Master Data active employees
